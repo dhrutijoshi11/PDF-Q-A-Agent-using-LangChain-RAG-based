@@ -1,6 +1,11 @@
 # PDF Q&A Agent
 📄 An interactive PDF question-answering web app using a Retrieval-Augmented Generation (RAG) pipeline powered by LangChain and OpenAI GPT-4.
 
+## Demo
+
+Watch the demo video below:
+[![Watch the video](Thumbnail.png)](https://drive.google.com/file/d/1U4zYnJXICLYnnwu_FuNnf-W66crTopCA/view?usp=sharing)
+
 ## Overview
 PDF Q&A Agent allows users to upload or select local PDF documents and ask natural language questions about their content. The system uses:
 
